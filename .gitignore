@@ -46,3 +46,6 @@ out/
 _site/
 *.css
 !petclinic.css
+
+### Task 2 handoff code copies ###
+task2_criterion_*/code/
